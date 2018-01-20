@@ -1,9 +1,9 @@
-# Tabchi V1.0
+# Tabchi V2.0
 ویرایش شده توسط حاج علی
 
 ## نحوه نصب
 ```bash
-git clone https://github.com/tabchis/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/pesarkhaleh/Hajalibot && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## ساخت ربات!
 ```
