@@ -13,7 +13,7 @@ done
 rst=$'\e[0m'
 bld=$'\e[1m'
 echo -e "\e[100m                                   Launcher Script                             \e[00;37;40m"
-echo -e "\e[01;34m                                    By TE(1)Egamer                               \e[00;37;40m"
+echo -e "\e[01;34m                                    By HajAliBotSaz                               \e[00;37;40m"
 echo ""
 sleep 0.5
 cat << EOF
